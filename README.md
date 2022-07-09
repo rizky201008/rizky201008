@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizky201008
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning PHP, Java
+- 🌱 I’m currently learning PHP, Javascript
 - ✔ Ready for working with your team
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Twitter @rizkyagungpray1
