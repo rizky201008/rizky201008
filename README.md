@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning PHP, Javascript
 - 👨‍💼 I'm student of <a href="https://ittelkom-sby.ac.id">Institut Teknologi Telkom Surabaya</a>
-- 🤝 Ready for working with your team
+- 🤝 Ready collaborate with your team
 - 📫 How to reach me? <a href="https://twitter.com/rizkyagungpray1">Twitter</a> | <a href="https://wa.me/081232435871">Whatsapp</a>
 
 <!---
