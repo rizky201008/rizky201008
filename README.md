@@ -1,8 +1,2 @@
-Hey, I'm Rizky Agung Prayogi, a native Android developer with a passion for building innovative apps. When I'm not coding away in Kotlin (my favorite!), you can find me experimenting with PHP, JavaScript, or Golang. Let's collaborate on some awesome projects!
-
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=rizky201008&show_icons=true&locale=en&theme=tokyonight" alt="rizky201008" /></p>
-
-<!---
-rizky201008/rizky201008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there👋
+My name is Yogik, I'm from Indonesia. Welcome to my Github profile, in this profile you can see my public repositories and any activity that I do as a Software Engineer. My favorite programming language is Kotlin, Php, Go, Dart, and Javascript and my favorite is Mobile App development with Native and also with Flutter. Currenty I'm focussing on learning Flutter because in my country, Flutter is very famous for developing mobile application. Thank you for your interest about my personal Github profile page.
