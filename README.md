@@ -1,2 +1,2 @@
 Hello there👋
-My name is Yogik, I'm from Indonesia. Welcome to my Github profile, in this profile you can see my public repositories and any activity that I do as a Software Engineer. My favorite programming language is Kotlin, Php, Go, Dart, and Javascript and my favorite is Mobile App development with Native and also with Flutter. Currenty I'm focussing on learning Flutter because in my country, Flutter is very famous for developing mobile application. Thank you for your interest about my personal Github profile page.
+My name is Yogik
